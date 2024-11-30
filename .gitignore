@@ -1,0 +1,30 @@
+# Dependencias de Node.js
+node_modules/
+
+# Archivos de entorno
+.env
+
+# Archivos de registro, Archivos generados por errores de npm o del sistema
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Directorios de cobertura de pruebas, generado por herramientas de pruebas 
+coverage/
+
+# Salida de compilación y empaquetado
+dist/
+build/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+
+# Archivos relacionados con el sistema operativo
+*.log
