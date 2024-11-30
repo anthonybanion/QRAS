@@ -1,0 +1,1 @@
+// user_model admin and teacher
